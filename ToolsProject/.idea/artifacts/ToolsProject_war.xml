@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ToolsProject:war">
+    <output-path>$PROJECT_DIR$/ToolsProject/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>ToolsProject</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="ToolsProject-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="ToolsProject:war exploded" />
+    </root>
+  </artifact>
+</component>
